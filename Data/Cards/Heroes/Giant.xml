@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CardDesc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Giant</Name>
+  <ManaCost>5</ManaCost>
+  <Type>Hero</Type>
+  <Damage>6</Damage>
+  <Health>5</Health>
+</CardDesc>

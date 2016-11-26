@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>Peasant</string>
+  <string>Peasant</string>
+  <string>Peasant</string>
+  <string>Hunter</string>
+  <string>Hunter</string>
+  <string>Hunter</string>
+  <string>Squire</string>
+  <string>Squire</string>
+  <string>Squire</string>
+  <string>Footman</string>
+  <string>Footman</string>
+  <string>Footman</string>
+  <string>Knight</string>
+  <string>Knight</string>
+  <string>Knight</string>
+  <string>Alebardist</string>
+  <string>Alebardist</string>
+  <string>Alebardist</string>
+  <string>Elite</string>
+  <string>Elite</string>
+  <string>Elite</string>
+  <string>Flagbearer</string>
+  <string>Flagbearer</string>
+  <string>Flagbearer</string>
+  <string>Giant</string>
+  <string>Giant</string>
+  <string>Giant</string>
+  <string>Treant</string>
+  <string>Treant</string>
+  <string>Treant</string>
+</ArrayOfString>

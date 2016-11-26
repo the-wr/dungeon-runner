@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CardDesc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Just an Enchantment</Name>
+  <ManaCost>2</ManaCost>
+  <Type>Enchantment</Type>
+</CardDesc>

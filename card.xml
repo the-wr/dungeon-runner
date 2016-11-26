@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CardDesc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ManaCost>0</ManaCost>
+  <Type>Hero</Type>
+  <IsAmbush>false</IsAmbush>
+  <IsDelayed>false</IsDelayed>
+  <Damage>0</Damage>
+  <Health>0</Health>
+  <Effects>
+    <EffectResource xsi:type="EffectBonusStats">
+      <TargetSelector xsi:type="TargetSelectorSelf" />
+      <Damage>1</Damage>
+      <Health>0</Health>
+    </EffectResource>
+  </Effects>
+</CardDesc>

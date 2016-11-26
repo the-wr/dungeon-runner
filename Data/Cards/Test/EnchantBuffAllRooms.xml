@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CardDesc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>All Rooms +1/+2</Name>
+  <ManaCost>1</ManaCost>
+  <Type>Enchantment</Type>
+  <Effects>
+    <EffectResource xsi:type="EffectBonusStats">
+      <TargetSelector xsi:type="TargetSelectorAllRoomsInSameWing" />
+      <Damage>1</Damage>
+      <Health>2</Health>
+    </EffectResource>
+  </Effects>
+</CardDesc>
