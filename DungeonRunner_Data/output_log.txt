@@ -1,0 +1,448 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670 (ID=0x1189)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1280x1024 60Hz; virtual: 3200x1200 at -1280,0
+<RI> Initialized touch support.
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670 (ID=0x1189)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1280x1024 60Hz; virtual: 3200x1200 at -1280,0
+<RI> Initialized touch support.
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670 (ID=0x1189)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1280x1024 60Hz; virtual: 3200x1200 at -1280,0
+<RI> Initialized touch support.
+UnloadTime: 0.534913 ms
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.Xml.dll (this message is harmless)
+29 cards loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+UnloadTime: 0.476652 ms
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.Xml.dll (this message is harmless)
+29 cards loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+UnloadTime: 0.460049 ms
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.Xml.dll (this message is harmless)
+29 cards loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.CreateMatchResponse]-success:True-extendedInfo:]-address:52.28.9.224,port:9999,networkId:0x0640000000184158,nodeId:0xFC44,usingRelay:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.248740 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 409.
+Total: 0.338094 ms (FindLiveObjects: 0.017810 ms CreateObjectMapping: 0.016602 ms MarkObjects: 0.300058 ms  DeleteObjects: 0.003320 ms)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient Join :https://mm.unet.unity3d.com/json/reply/JoinMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.JoinMatchResponse]-success:True-extendedInfo:]-address:52.28.9.224,port:9999,networkId:0x0640000000184158,nodeId:0xFA66,usingRelay:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient Join :https://mm.unet.unity3d.com/json/reply/JoinMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.JoinMatchResponse]-success:True-extendedInfo:]-address:52.28.9.224,port:9999,networkId:0x0640000000184158,nodeId:0xFA99,usingRelay:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.279229 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 409.
+Total: 0.356810 ms (FindLiveObjects: 0.015093 ms CreateObjectMapping: 0.013584 ms MarkObjects: 0.324812 ms  DeleteObjects: 0.002414 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.289795 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 409.
+Total: 0.272890 ms (FindLiveObjects: 0.011772 ms CreateObjectMapping: 0.012980 ms MarkObjects: 0.245420 ms  DeleteObjects: 0.002716 ms)
+
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670 (ID=0x1189)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.046 seconds
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1280x1024 60Hz; virtual: 3200x1200 at -1280,0
+<RI> Initialized touch support.
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670 (ID=0x1189)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1280x1024 60Hz; virtual: 3200x1200 at -1280,0
+<RI> Initialized touch support.
+UnloadTime: 0.481784 ms
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.Xml.dll (this message is harmless)
+29 cards loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+UnloadTime: 5.679380 ms
+Platform assembly: D:\Work\Unity\DungeonRunner\DungeonRunner_Data\Managed\System.Xml.dll (this message is harmless)
+29 cards loaded.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient Create :https://mm.unet.unity3d.com/json/reply/CreateMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.CreateMatchResponse]-success:True-extendedInfo:]-address:52.28.9.224,port:9999,networkId:0x0640000000184298,nodeId:0xFCF1,usingRelay:True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.245118 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 409.
+Total: 0.388204 ms (FindLiveObjects: 0.012980 ms CreateObjectMapping: 0.046186 ms MarkObjects: 0.326019 ms  DeleteObjects: 0.003018 ms)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+JSON Response: [[UnityEngine.Networking.Match.ListMatchResponse]-success:True-extendedInfo:]-matches.Count:1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 302c -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 23e4 -> priority: 1 
+Socket: Cannot send, error: An operation on a socket could not be performed because the system lacked sufficient buffer space or because a queue was full.
+(10055)
+ 
+(Filename:  Line: 488)
+
+Log: connection {1} has been disconnected b  tiimeout; adrrees {: :f:ffff5f5.:.8289292.224:9999}
+
+9}
+Log: connection {1} has been disconnected by timeout; address {::ffff:52.28.9.224:9999}
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.754071 ms
+ArgumentException: An element with the same key already exists in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.String,CardDesc].Add (System.String key, .CardDesc value) [0x00000] in <filename unknown>:0 
+  at CardDB.LoadCard (System.String fileName) [0x00000] in <filename unknown>:0 
+  at Helpers.ProcessFilesInDirectory (System.String dir, System.Action`1 callback, Boolean recursive) [0x00000] in <filename unknown>:0 
+  at Helpers.ProcessFilesInDirectory (System.String dir, System.Action`1 callback, Boolean recursive) [0x00000] in <filename unknown>:0 
+  at CardDB.Init () [0x00000] in <filename unknown>:0 
+  at MatchMaker.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.578684 ms (FindLiveObjects: 0.010867 ms CreateObjectMapping: 0.012678 ms MarkObjects: 0.548195 ms  DeleteObjects: 0.006641 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.357715 ms
+ArgumentException: An element with the same key already exists in the dictionary.
+  at System.Collections.Generic.Dictionary`2[System.String,CardDesc].Add (System.String key, .CardDesc value) [0x00000] in <filename unknown>:0 
+  at CardDB.LoadCard (System.String fileName) [0x00000] in <filename unknown>:0 
+  at Helpers.ProcessFilesInDirectory (System.String dir, System.Action`1 callback, Boolean recursive) [0x00000] in <filename unknown>:0 
+  at Helpers.ProcessFilesInDirectory (System.String dir, System.Action`1 callback, Boolean recursive) [0x00000] in <filename unknown>:0 
+  at CardDB.Init () [0x00000] in <filename unknown>:0 
+  at MatchMaker.Awake () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.421410 ms (FindLiveObjects: 0.011772 ms CreateObjectMapping: 0.012074 ms MarkObjects: 0.391525 ms  DeleteObjects: 0.005735 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2cb0 -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1ee0 -> priority: 1 
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2330 -> priority: 1 
