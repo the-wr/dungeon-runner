@@ -21,11 +21,11 @@ Note: This works through Unity relay server, so clients can be run on different 
 The goal for Runner player is to defeat the Overlord (reduce their Life to 0).
 The goal for Overlord player is to execute their Masterplan (reduce their Masterplan Steps to 0).
 
-Overlord has three dungeon wings. At the core of each wing is a Dungeon Heart, that Overlord must protect. Overlord builds protective rooms in each wing. Rooms are placed for free, but they start working only when activated. Activation costs mana.
+Overlord has three dungeon wings. At the core of each wing is a Dungeon Heart, that Overlord must protect. Overlord builds protective rooms in each wing. Rooms are placed for free, but they start working only when activated. Activation costs mana. Room details and activation state are not visible to Runner until they enter the room, thus making rooms "surprise traps" for the Runner. Rooms can be replaced, i.e. new room can be built on top of an old one.
 
-Runner recruits heroes to fight their way to Dungeon Hearts. Recruiting heroes cost mana, and new heroes can't attack the same turn they were recruited. Runner's goal is to attack dungeon wings with their heroes and destroy each Dungeon Heart.
+Runner recruits heroes to fight their way to Dungeon Hearts. Recruiting heroes cost mana, and new heroes can't attack the same turn they were recruited. Runner's goal is to attack dungeon wings with their heroes and destroy each Dungeon Heart. Runner does not know what rooms are there, and are they activated or not, until they enter the room. Before entering each room, Runner has a choice to retreat, saving heroes from an unlikely encounter, but ending the turn.
 
-At the end of Runner's turn, Overlord loses one life point for each Dungeon Heart destroyed, and advances his Masterplan by one step for each Dungeon Heart survived. Then all rooms are healed restored (but not heroes!).
+At the end of Runner's turn, Overlord loses one life point for each Dungeon Heart destroyed, and advances his Masterplan by one step for each Dungeon Heart survived. Then all rooms are healed restored (but not heroes!), mana pool is replenished and increased by 1.
 
 Whoever reaches their goal first - wins!
 
