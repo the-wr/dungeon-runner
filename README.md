@@ -25,6 +25,8 @@ Overlord has three dungeon wings. At the core of each wing is a Dungeon Heart, t
 
 Runner recruits heroes to fight their way to Dungeon Hearts. Recruiting heroes cost mana, and new heroes can't attack the same turn they were recruited. Runner's goal is to attack dungeon wings with their heroes and destroy each Dungeon Heart. Runner does not know what rooms are there, and are they activated or not, until they enter the room. Before entering each room, Runner has a choice to retreat, saving heroes from an unlikely encounter, but ending the turn.
 
+When in a room, heroes must defeat it to advance further. Runner picks a hero to fight the room, then they deal damage (bottom-left number) to each other. If a hero takes as much damage as their life (bottom-right number), it is defeated and disappears. If a room takes as much damage as it's life, it is defeated and heroes advance further into dungeon. During a room encounter, there are no limits how many times each hero can may fight the room.
+
 At the end of Runner's turn, Overlord loses one life point for each Dungeon Heart destroyed, and advances his Masterplan by one step for each Dungeon Heart survived. Then all rooms are healed restored (but not heroes!), mana pool is replenished and increased by 1.
 
 Whoever reaches their goal first - wins!
