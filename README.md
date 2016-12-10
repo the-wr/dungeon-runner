@@ -4,7 +4,7 @@ A prototype of an online collectible-card-game, that's a somewhat simplified ver
 
 ![Screenshot](screenshot.png?raw=true)
 
-How to use:
+# How to use
 
 This game relies on hidden information and should be run on two separate machines. However, it _can_ be run on one machine for demonstration purposes.
 
