@@ -11,7 +11,7 @@ This game relies on hidden information and should be run on two separate machine
 1. If run on one machine, start DungeonRunner.exe _three_ times at once. If run on two machines, one shound run DungeonRunner.exe _two_ times (one being used as a server), the other machine should just run it once.
 2. In one of the windows push "Start Server", then minimize it.
 3. In two other windows join the server. Those are the players.
-4. With one client start as Runner, the other sould be Overlord.
+4. With one client start as Runner, the other should be Overlord.
 5. Take turns, have fun :)
 
 Note: This works through Unity relay server, so clients can be run on different machines.
