@@ -32,3 +32,7 @@ At the end of Runner's turn, Overlord loses one life point for each Dungeon Hear
 Whoever reaches their goal first - wins!
 
 (Note: Server must be restarted to play again!)
+
+# Note
+
+This prototype demonstrates the very basics of game mechanics. The final game is expected to have Hero and Room abilities, spells, traps, enchantments and more! :)
