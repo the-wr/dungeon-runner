@@ -14,7 +14,7 @@ This game relies on hidden information and should be run on two separate machine
 4. With one client start as Runner, the other should be Overlord.
 5. Take turns, have fun :)
 
-Note: This works through Unity relay server, so clients can be run on different machines.
+Note: This works through Unity relay server, which is limited to 10 connections in personal version. So this prototype is somewhat limited to 3 concurrent games at once: (2 players + 1 server) x 3 = 9 connections :)
 
 # Rules
 
