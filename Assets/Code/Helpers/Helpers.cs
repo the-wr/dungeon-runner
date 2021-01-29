@@ -83,7 +83,9 @@ public static class Helpers
 
     public static void ProcessFilesInDirectory( string dir, Action<string> callback, bool recursive )
     {
-        string[] files = Directory.GetFileSystemEntries( dir );
+        string[] files = Directory.GetFiles( dir );
+        //var info = new DirectoryInfo(dir);
+        //var files = info.GetFiles().Select(fileInto => fileInto.Name);
         foreach ( string file in files )
         {
             // Subdir?
